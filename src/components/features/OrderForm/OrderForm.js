@@ -16,6 +16,7 @@ class OrderForm extends React.Component {
 
   render() {
     const { tripCost, options, setOrderOption } = this.props;
+    console.log(pricing, options);
     return (
       <Grid>
         <Row>

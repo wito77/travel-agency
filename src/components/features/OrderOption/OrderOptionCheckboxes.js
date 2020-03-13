@@ -32,7 +32,7 @@ const OrderOptionCheckboxes = ({ values, currentValue, setOptionValue }) => (
 
 OrderOptionCheckboxes.propTypes = {
   values: PropTypes.array,
-  currentValue: PropTypes.string,
+  currentValue: PropTypes.array,
   setOptionValue: PropTypes.func,
 };
 
