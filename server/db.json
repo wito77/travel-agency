@@ -74,6 +74,50 @@
       "tripId": "5cc1d10130dfa407e2e54e20",
       "days": "TUR",
       "id": 5
+    },
+    {
+      "car-rental": "luxury",
+      "accommodation": "house",
+      "features": [],
+      "adults": 1,
+      "children": 0,
+      "name": "name",
+      "contact": "contact",
+      "start-date": "",
+      "totalCost": "$70,033",
+      "countryCode": "Surprising jaunt in admirable United Arab Emirates",
+      "tripId": "5cc1d10107e2be6064ff9129",
+      "id": 6
+    },
+    {
+      "car-rental": "suv",
+      "accommodation": "hotel",
+      "features": [],
+      "adults": 1,
+      "children": 0,
+      "name": "blablab",
+      "contact": "asdadasd",
+      "start-date": "2020-03-25T21:32:38.000Z",
+      "totalCost": "$68,933",
+      "countryCode": "Surprising jaunt in admirable United Arab Emirates",
+      "tripId": "5cc1d10107e2be6064ff9129",
+      "id": 7
+    },
+    {
+      "car-rental": "full",
+      "accommodation": "suite",
+      "features": [
+        "security"
+      ],
+      "adults": 1,
+      "children": 0,
+      "name": "namesik",
+      "contact": "kontakcik",
+      "start-date": "2020-04-01T20:34:36.000Z",
+      "totalCost": "$71,333",
+      "countryCode": "Surprising jaunt in admirable United Arab Emirates",
+      "tripId": "5cc1d10107e2be6064ff9129",
+      "id": 8
     }
   ]
 }
